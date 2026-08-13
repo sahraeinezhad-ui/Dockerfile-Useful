@@ -10,3 +10,4 @@ elif [ $number -eq 10 ]; then
 else
 	echo "The Number is Smaler 10"
 fi
+#1
