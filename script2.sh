@@ -1,4 +1,5 @@
 #!/bin/bash
+#add comment for check branch
 
 Multiply=`echo "$1*$2" | bc`
 if [ $1 -ge $2 ]
