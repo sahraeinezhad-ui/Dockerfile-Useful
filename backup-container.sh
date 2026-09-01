@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#for all container
 BACKUP_DIR="/tmp/container-backup"
 DATE=$(date +"%Y%m%d_%H%M%S")
 
